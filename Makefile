@@ -1,9 +1,7 @@
 all : client server
-client : client.o
-	gcc -o client client.o
-server : server.o
+client :
+	gcc -o client client.c
+	./client 127.0.0.1 6022
+server : 
 	gcc -o server server.o
-client.o : client.c
-	gcc -c client.c
-server.o : server.c
-	gcc -c server.c
+	./server 6022
