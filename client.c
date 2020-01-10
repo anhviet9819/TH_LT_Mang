@@ -51,7 +51,7 @@ int getRegisterPassword(node_t *user)
 }
 int validateAnswer(char *answer)
 {
-	if(strcmp(answer,"a")==0||strcmp(answer,"b")==0)
+	if(strcmp(answer,"a")==0||strcmp(answer,"b")==0||strcmp(answer,"c")==0||strcmp(answer,"d")==0)
 	{
 		return 1;
 	}
@@ -61,7 +61,7 @@ void menuAuthenticate()
 {
 	printf("\n---------------QuickTest-------------\n");
 	printf("\n1 - Login");
-	printf("\n2 - sigup");
+	printf("\n2 - Register");
 	printf("\n3 - Exit");
 	printf("\nPlease choose: ");
 }
@@ -95,6 +95,7 @@ int main(int argc, char const *argv[])
 		printf("\nError!Can not connect to sever! Client exit imediately! ");
 		return 0;
 	}
+	do {
 	menuAuthenticate();
 	scanf("%c", &choose);
 	while (getchar() != '\n')
@@ -217,7 +218,17 @@ int main(int argc, char const *argv[])
 					printf("\nError!Cannot receive data from sever!\n");
 					return 0;
 				}
-				printf("\nBạn trả lời đúng: %s/10", buff);
+				int p=atoi(buff);
+				if(p<3)
+				{
+					printf("Bạn là người hướng có thiên hướng trực giác => Phù hợp với các nghề về kĩ thuật\n");
+				}
+				else if(3<= p && p< 7)
+				{
+					printf("bạn là người lý trí. phần lí trí là phần được đánh giá cao nhất, nó có vai trò tìm hiểu các thông tin liên quan dựa trên các bộ phân tiêu chí đúng sai, trái hay phải. Sau đó, suy luận một cách logic mới trực tiếp cho đáp án cụ thể nhất, có căn cứ nhất, có khoa học nhất. \n=> Phù hợp với các nghề về logic cao\n");
+				}
+				else
+					printf("Bạn là người hướng có thiên hướng cảm xúc,Phần cảm xúc của não bộ sẽ xem xét sự việc trên tổng thế các vấn đề cảm tính, yêu hay ghét, hận hay thu đồng thời các yếu tố đó có sự tác động qua lại lẫn nhau, không có một sự rạch ròi, đó là bản chất của vấn đề cảm xúc do não quyết định. => Phù hợp với các nghề về nghệ thuật\n");
 				break;
 
 				// break;
@@ -281,8 +292,8 @@ int main(int argc, char const *argv[])
 					printf("\nError!Cannot receive data from sever!\n");
 					return 0;
 				}
-				if(strcmp(buff,"4")==0) printf ("\nDang ki thanh cong");
-				else printf ("\nDang ki ko thanh cong");
+				if(strcmp(buff,"4")==0) printf ("\nDang ki thanh cong\n");
+				else printf ("\nDang ki ko thanh cong\n");
 			}
 		}
 		break;
@@ -291,6 +302,7 @@ int main(int argc, char const *argv[])
 	default:
 		printf("Syntax Error! Please choose again!\n");
 	}
+}while(choose!=3);
 	//Communicate with server
 
 	//Close socket

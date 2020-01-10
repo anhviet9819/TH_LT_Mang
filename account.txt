@@ -1,3 +1,26 @@
-yen 123 1 | khksfhl | asd | adaf | jhdjfl
-ducanh ducanh 1 | jflslf | hksjfs | jhhjl | mandlald
-hoang 123456789 1 | kflaknk | knedlkf | jbjhk | khdlvs
+kim 123 1 0
+quoc 1234 1 0
+nga 123 1 0
+anh anh 1 0
+quangml quang 1 10
+A A 1 0
+A A 1 0
+A A 1 0
+A A 1 0
+thien A 1 0
+1 thien 1 0
+thien thien 1 0
+123456 A 1 0
+1 phubh 1 0
+phubh 123456 1 0
+1 phu 1 0
+phu 123 1 0
+quang 123 1 0
+mai 1234567 1 0
+yen 123 1 10
+ducanh ducanh 1 2
+hoang 123456789 1 7
+lvh 123456 1 0
+lvh2 123456 1 0
+lvh1 123456789 0 0
+bhp 123456 1 7

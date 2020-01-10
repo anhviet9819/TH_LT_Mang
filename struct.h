@@ -7,21 +7,20 @@ typedef struct node
 {
 	char username[MAX];
 	char password[MAX];
-	int status1;
-	int status2;
-	int status3;
-	int status4;
+	int status;
+	int point;
 	struct node *next;
 } node_t;
 typedef struct question
 {
 	int id;
-	int level; //có 4 nhóm tính cách đối lập
+	int level; //1 : easy, 2 : medium, 3 : hard
 	char content[200];
 	char choiceA[50];
 	char choiceB[50];
-	char answer1[50];
-	char answer2[50];
+	// char choiceC[50];
+	// char choiceD[50];
+	char answer;
 } Question;
 typedef struct message
 {

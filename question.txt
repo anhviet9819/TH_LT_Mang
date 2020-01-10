@@ -13,8 +13,8 @@
 13 | 3 | Trong các cuộc trò chuyện bạn thường? | A.dè dăt | B.Thoải mái |A
 14 | 3 | Lựa chọn bạn thường? | A.Tuân theo chuẩn mực | B.Đôi lúc không rõ nguyên nhân |A
 15 | 3 | Đối với 1 vấn đề trong nhóm? | A.Độc lập giải quyết | B.Bàn bạc với mọi người |A
-16 | 4 | Trong 2 điều sau điều nào tồi tệ hơn? | A: Không công bằng | B: Tàn nhẫn |A
-17 | 4 | Tính cách nào giống bạn hơn? | A: Kiên quyết | B: Nhẹ nhàng |A
-18 | 4 | Trong cs bạn cảm thấy có hứng thú với? | A: Nhuwxng điều không lường trước | B: Những thứ theo kế hoạch |A
-19 | 4 | Bạn thấy tâm đắc với bản thân bởi tính cách?  | A: Chawsc chắn trong tư tưởng | B: Cống hiến hết mình |A
-20 | 4 | Bạn nhìn nhận vấn đề bởi  | A: Sự liên tưởng | B: Khả năng lý luận phân tích |A
+16 | 1 | Trong 2 điều sau điều nào tồi tệ hơn? | A: Không công bằng | B: Tàn nhẫn |A
+17 | 1 | Tính cách nào giống bạn hơn? | A: Kiên quyết | B: Nhẹ nhàng |A
+18 | 2 | Trong cs bạn cảm thấy có hứng thú với? | A: Nhuwxng điều không lường trước | B: Những thứ theo kế hoạch |A
+19 | 2 | Bạn thấy tâm đắc với bản thân bởi tính cách?  | A: Chawsc chắn trong tư tưởng | B: Cống hiến hết mình |A
+20 | 3 | Bạn nhìn nhận vấn đề bởi  | A: Sự liên tưởng | B: Khả năng lý luận phân tích |A
