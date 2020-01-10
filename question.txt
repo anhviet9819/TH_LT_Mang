@@ -1,0 +1,20 @@
+1 | 1 | Bạn thích công việc kiểubạn thích công việc kiểu? | A.Xã hội, giao tiếp | B.nghiên cứu, thiết kế |A
+2 | 1 | bạn tiếp xúc với 1 ng theo xu hướng | A.Khách quan | B.Chủ Quan |A
+3 | 1 | Bạn đánh giá sự kiện dựa trên? | A.Ý nghĩa, gía trị | B.Tính logic |A
+4 | 1 | Bạn là người có tác phong? | A.thong thả, thoải mái | B.nhanh nhẹn đúng giờ |A
+5 | 1 | Trong các cuộc giao tiếp bạn là người? | A.chủ động bắt chuyện | B.chỉ nói khi đc ng khác bắt chuyện |A
+6 | 2 | Bạn là người? | A: Có cái đầu lạnh | B: Có trái tim ấm |A
+7 | 2 | Tính cách của bạn?  | A: Dễ chịu, thoải mái | B: nghiêm chỉnh, quả quyết |A
+8 | 2 | Những người có tầm nhìn xa ? | A: khá thú vị | B: khá khó hiểu |A
+9 | 2 | Đối với nh ng mới gặp bạn thường?  | A: Dễ bắt chuyện | B: không biết nói gì |A
+10 | 2 | Một công việc nhàm chán khi?  | A: không có quy trình cụ thể | B: không có tính sáng tạo |A
+11 | 3 | Bạn bị hấp dẫn bởi? | A.sự hòa hợp với mọi người | B.sự nhất quán trong suy nghĩ |A
+12 | 3 | Bạn bị lôi cuốn bởi người? | A.giàu trí tưởng tượng | B.nắm bắt tình huống tốt |A
+13 | 3 | Trong các cuộc trò chuyện bạn thường? | A.dè dăt | B.Thoải mái |A
+14 | 3 | Lựa chọn bạn thường? | A.Tuân theo chuẩn mực | B.Đôi lúc không rõ nguyên nhân |A
+15 | 3 | Đối với 1 vấn đề trong nhóm? | A.Độc lập giải quyết | B.Bàn bạc với mọi người |A
+16 | 4 | Trong 2 điều sau điều nào tồi tệ hơn? | A: Không công bằng | B: Tàn nhẫn |A
+17 | 4 | Tính cách nào giống bạn hơn? | A: Kiên quyết | B: Nhẹ nhàng |A
+18 | 4 | Trong cs bạn cảm thấy có hứng thú với? | A: Nhuwxng điều không lường trước | B: Những thứ theo kế hoạch |A
+19 | 4 | Bạn thấy tâm đắc với bản thân bởi tính cách?  | A: Chawsc chắn trong tư tưởng | B: Cống hiến hết mình |A
+20 | 4 | Bạn nhìn nhận vấn đề bởi  | A: Sự liên tưởng | B: Khả năng lý luận phân tích |A
